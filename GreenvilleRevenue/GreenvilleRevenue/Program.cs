@@ -19,23 +19,33 @@ class GreenvilleRevenue
         string lastYear, thisYear;
         double admission = 25.00, revenue;
 
-        do
-        {
+        
+        
             Write("Enter the number of contestants in last year's competition: ");
             lastYear = ReadLine();
             lastYearNum = Int32.Parse(lastYear);
-        }
-        while (lastYearNum < 0 || lastYearNum > 30);
-
-        do
+        
+        while (lastYearNum < 0 || lastYearNum > 30)
         {
+            Write("Invalid entry, please enter a number from 0 to 30: ");
+            lastYear = ReadLine();
+            lastYearNum = Int32.Parse(lastYear);
+        }
+
+        
+        
             Write("Enter the number of contestants in this year's competition: ");
             thisYear = ReadLine();
             thisYearNum = Int32.Parse(thisYear);
             bool moreThisYear = thisYearNum > lastYearNum;
             revenue = thisYearNum * admission;
+        
+        while (thisYearNum < 0 || thisYearNum > 30)
+        {
+            Write("Invalid entry, please enter a number from 0 to 30: ");
+            thisYear = ReadLine();
+            thisYearNum = Int32.Parse(thisYear);
         }
-        while (thisYearNum < 0 || thisYearNum > 30);
 
 
         WriteLine();

@@ -13,3 +13,9 @@ C:\Users\Dan\Google Drive\School\CIS 2620 Object Oriented Programming\Data Files
 C:\Users\Dan\Google Drive\School\CIS 2620 Object Oriented Programming\Data Files\Chapter05\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe.config
 C:\Users\Dan\Google Drive\School\CIS 2620 Object Oriented Programming\Data Files\Chapter05\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.exe
 C:\Users\Dan\Google Drive\School\CIS 2620 Object Oriented Programming\Data Files\Chapter05\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.pdb
+C:\Users\Bucket Head Wendy\Source\Repos\GreenvilleRevenue\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe.config
+C:\Users\Bucket Head Wendy\Source\Repos\GreenvilleRevenue\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.exe
+C:\Users\Bucket Head Wendy\Source\Repos\GreenvilleRevenue\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.pdb
+C:\Users\Bucket Head Wendy\Source\Repos\GreenvilleRevenue\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe
+C:\Users\Bucket Head Wendy\Source\Repos\GreenvilleRevenue\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.pdb
+C:\Users\Bucket Head Wendy\Source\Repos\GreenvilleRevenue\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.csprojResolveAssemblyReference.cache
